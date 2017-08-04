@@ -1,0 +1,17 @@
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/CronExpression.NET.dll
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/CronExpression.NET.pdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Core.dll
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Core.xml
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/obj/Debug/CronExpression.NET.csprojResolveAssemblyReference.cache
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/obj/Debug/CronExpression.NET.csproj.CoreCompileInputs.cache
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/obj/Debug/CronExpression.NET.dll
+/Users/gesposito/Documents/Projects/BadaPlus/BadaPlus-Xamarin/Extras/CronExpression.NET/CronExpression.NET/obj/Debug/CronExpression.NET.pdb
